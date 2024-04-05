@@ -34,8 +34,6 @@ public class demo04 {
     public static void main(String[] args) {
 
     }
-
-
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         // 双指针，一个判断nums1的元素，另一个判断nums2的元素
         int i = m - 1, j = n - 1;
