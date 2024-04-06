@@ -42,7 +42,7 @@ public class demo03 {
         }
         return dfs(left.right, right.left)&&dfs(left.left,right.right);
     }
-    public class TreeNode {
+    public static class TreeNode {
       int val;
       TreeNode left;
       TreeNode right;
