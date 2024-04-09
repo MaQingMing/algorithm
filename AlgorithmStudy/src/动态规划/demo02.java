@@ -20,11 +20,6 @@ import java.util.List;
  * 输出: [[1]]
  */
 public class demo02 {
-
-    public static void main(String[] args) {
-
-    }
-
     /**
      * 解题思路
      * 通过简单的循环计算每行的元素，推入结果数组即可，其中：
